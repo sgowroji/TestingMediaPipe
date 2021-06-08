@@ -24,4 +24,4 @@ labels: type:build/install
 **[Provide the exact sequence of commands / steps that you executed before running into the problem](https://google.github.io/mediapipe/getting_started/getting_started.html):**
 
 **Complete Logs:**
-I
+Include Complete Log information or source code that would be helpful to diagnose the problem. If including tracebacks, please include the full traceback. Large logs and files should be attached:

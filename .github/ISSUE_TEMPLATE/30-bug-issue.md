@@ -29,3 +29,4 @@ Provide a reproducible test case that is the bare minimum necessary to replicate
 **Other info / Complete Logs :**
  Include any logs or source code that would be helpful to
 diagnose the problem. If including tracebacks, please include the full
+traceback. Large logs and files should be attached

@@ -23,4 +23,4 @@ If there is a problem, provide a reproducible test case that is the bare minimum
 **Other info / Complete Logs :**
 Include any logs or source code that would be helpful to
 diagnose the problem. If including tracebacks, please include the full
-t
+traceback. Large logs and files should be attached:
